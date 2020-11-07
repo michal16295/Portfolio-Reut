@@ -401,9 +401,10 @@ ul, ol, li{
   	margin: 0;
   }
      h1 {
-        font-size: 32px !important;
+        font-size: 25px !important;
         line-height: 80%;
         margin-top: 10px;
+        font-weight: bold;
       }
   .gif{
 	border: 4px solid white;
