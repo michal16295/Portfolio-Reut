@@ -47,7 +47,7 @@ ul, ol, li{
 	color: #39ba9e !important;
 }
 .back-img{
-	background: url(img/banner3.jpg) no-repeat center fixed;
+	background: url(img/banner4.jpeg) no-repeat center fixed;
 	height: 50vh;
 	opacity: 20%;
 }
@@ -74,7 +74,7 @@ ul, ol, li{
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
- 	padding-bottom: 10px;   
+ 	  padding-bottom: 10px;   
 }
 /* Animation */
 .anim-typewriter{
@@ -387,6 +387,7 @@ ul, ol, li{
   /* For mobile phones: */
      .projects-info, .skills-info, .contact-info, .footer, .about-text{
   	width: 80%;
+
   }
   .contact-info{
   	text-align: center;
@@ -397,6 +398,9 @@ ul, ol, li{
   .intro{
   	top: 50%;
   	margin: 0;
+  }
+  .intro h1{
+    width: 100%;
   }
   .gif{
 	border: 4px solid white;
